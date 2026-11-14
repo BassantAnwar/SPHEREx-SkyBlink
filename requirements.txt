@@ -1,0 +1,12 @@
+streamlit>=1.35.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+astropy>=6.0.0
+astroquery>=0.4.7
+reproject>=0.13.0
+requests>=2.31.0
+urllib3>=2.0.0
+fsspec>=2024.2.0
+aiohttp>=3.9.0
